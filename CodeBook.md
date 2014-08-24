@@ -13,8 +13,8 @@ It is labeled with comments for each section.
 
 The script performs:
 
-	1.  downloads the data and then unzips it
-	2.  reads in the tables containing the variable names and acitivity codes
+1. downloads the data and then unzips it
+2. reads in the tables containing the variable names and acitivity codes
 	3. renames some of the variables with more descriptive names
 	4. loads the test dataset, its labels which are the activity codes, and the subjects associated with each obs; renaming variables for clarity
 	5. renames the variables in the test data with the descriptive names
