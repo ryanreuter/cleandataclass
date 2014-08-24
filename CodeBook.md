@@ -12,6 +12,7 @@ The run_analysis.R script is straightforward and performs the objectives in the 
 It is labeled with comments for each section.
 
 The script performs:
+
 	1.  downloads the data and then unzips it
 	2.  reads in the tables containing the variable names and acitivity codes
 	3. renames some of the variables with more descriptive names
