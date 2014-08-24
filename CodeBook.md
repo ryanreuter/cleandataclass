@@ -1,11 +1,13 @@
 Code Book
 ======
 
-This code book describes the analysis performned for the data cleaning class project.
+This code book describes the analysis performed for the data cleaning class project.
 
 The original data can be found here:https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 
 The description of the dataset can be found here:http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
+
+The variable descriptions included with the data are the best descriptions available, and are included as variable names in the summary tidy data set.
 
 The run_analysis.R script is straightforward and performs the objectives in the class assignment.
 
